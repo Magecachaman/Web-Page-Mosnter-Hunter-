@@ -1,14 +1,14 @@
 # Web-Page-Mosnter-Hunter-
 A newbie page for Mosnter Hunter Series
 
-Getting Started
+# Getting Started
 
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
-Authors
+# Authors
 
 Isaac Nauset Bordón García
 
-Acknowledgments
+# Acknowledgments
 
 W3schools, Youtube, Stack Overflow.
