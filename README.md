@@ -10,6 +10,10 @@ These instructions will give you a copy of the project up and running on your lo
 
 Isaac Nauset Bordón García
 
+# Reference
+
+https://dribbble.com/shots/24973575-Task-Management-Web-and-App-Design
+
 # Acknowledgments
 
 W3schools, Youtube, Stack Overflow.
