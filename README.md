@@ -1,4 +1,5 @@
-# Web-Page-Mosnter-Hunter-
+# Web-Page-Monster-Hunter-
+
 A newbie page for Mosnter Hunter Series
 
 # Getting Started
