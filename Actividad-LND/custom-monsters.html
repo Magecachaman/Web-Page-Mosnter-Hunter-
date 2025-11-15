@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/form-style.css">
+</head>
+
+<body>
+  <section id="parallax">
+    <img src="img/plenty-weather-monsterhunterwilds.png" alt="background" id="background">
+    <!-- <img src="img/mhw-render-liebre.webp" alt="doshaguma" id="liebre">
+    <img src="img/mhwilds-render-deikret.webp" alt="rey-dau" id="seikret"> -->
+    <h2 id="text">Monster Hunter Wilds</h2>
+  </section>
+
+  <form action="custom-monsters.html" id="form-custom-monster">
+    <div>
+      <label for="monster-name">Nombre:</label>
+      <input type="text" name="monster-name" id="monster-name">
+      <div><span id="monster-name-required-error">* Campo Obligatorio</span></div>
+    </div>
+    <div>
+      <label for="monster-type">Tipo:</label>
+      <input type="text" name="monster-type" id="monster-type">
+      <div><span id="monster-type-required-error">* Campo Obligatorio</span></div>
+    </div>
+    <div>
+      <label for="monster-weakness">Debilidades:</label>
+      <input type="text" name="monster-weakness" id="monster-weakness">
+      <div><span id="monster-weakness-required-error">* Campo Obligatorio</span></div>
+    </div>
+    <div>
+      <label for="monster-element">Elemento:</label>
+      <input type="text" name="monster-element" id="monster-element">
+      <div><span id="monster-element-required-error">* Campo Obligatorio</span></div>
+    </div>
+    <input type="submit" value="Enviar">
+  </form>
+
+  <section id="monsters-agenda">
+    <h2>Listado de Monstruos realizados</h2>
+    <ul id="monsters-list">
+
+    </ul>
+  </section>
+  <script src="js/validate-monster-form.js"></script>
+  <script src="js/parallax.js"></script>
+</body>
+
+</html>
